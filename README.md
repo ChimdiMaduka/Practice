@@ -1,1 +1,2 @@
-This is just basic bractice on how to use git
+This is just basic Practice on how to use git
+I am adding something new
