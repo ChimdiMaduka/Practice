@@ -10,3 +10,12 @@ CREATE TABLE IF NOT EXISTS Department(
     DepartmentName VARCHAR(50),
     Location VARCHAR(50)
 );
+
+
+CREATE Project(
+    ProjectID INT PRIMARY KEY,
+    ProjectName VARCHAR(50),
+    StartDate DATE,
+    EndDate DATE,
+    Budget DECIMAL(15, 2)
+);
