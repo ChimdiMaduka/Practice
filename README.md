@@ -1,0 +1,1 @@
+This is just basic bractice on how to use git
